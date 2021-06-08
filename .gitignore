@@ -3,3 +3,4 @@
 .ipynb_checkpoints
 *.xlsx
 data.json
+data_cluster.json
